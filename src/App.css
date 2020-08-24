@@ -68,8 +68,8 @@ button {
     align-items: center;
     font-size: 2rem;
     min-height: 20px;
-    background-color: rgb(19, 16, 12);
-    color: #fff;
+    /* background-color: rgb(19, 16, 12); */
+    /* color: #fff; */
 }
 
 .modifiers {
